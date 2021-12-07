@@ -8,7 +8,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Hi-Kod Frontend Web Geliştirme
 ## Projeler
 
 * _Project1 (Yemek Tarifi Sitesi)_
-
+* _Project2 (Bootstrap Pratiği)_
 
 
 
