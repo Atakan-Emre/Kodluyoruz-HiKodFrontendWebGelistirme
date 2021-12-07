@@ -9,7 +9,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Hi-Kod Frontend Web Geliştirme
 
 * _Project1 (Yemek Tarifi Sitesi)_
 * _Project2 (Bootstrap Pratiği)_
-
+* _Project3 (JavaScript (Dino Game) Pratiği)_
 
 
 ## Contributing
